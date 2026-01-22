@@ -5,7 +5,8 @@
 
 
 Pixel Tic-Tac-Toe (JavaFX) A lightweight Tic-Tac-Toe game built with Java and JavaFX. It features custom pixel-art graphics and a randomized board generation system.  Tech Stack: Java 21, JavaFX, and Maven.  Key Features: Automated winner detection and custom resource management.
-# 🎲 Pixel Tic-Tac-Toe Game
+
+Pixel Tic-Tac-Toe Game
 
 A simple and fun Tic-Tac-Toe game developed with Java and JavaFX, featuring charming pixel-art graphics and a randomized board generation system.
 
